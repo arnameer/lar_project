@@ -12,7 +12,7 @@
     <title>Homepage</title>
 </head>
 <body>
-    
+    hello
     <div class="container">
         <div class="title">
             <span class="heading">Student Result Management System</span>
